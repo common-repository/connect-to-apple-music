@@ -1,0 +1,9 @@
+/* MusicBlock component styles */
+
+@import '../../../styles/shared.css';
+
+.introText {
+  color: var(--black);
+  margin-bottom: 30px;
+  text-align: center;
+}
